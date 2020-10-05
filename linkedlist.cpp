@@ -17,7 +17,7 @@ return;
 }
 
 void display() {
-if (head == 0) {
+if (head == NULL) {
 cout << "Empty" << endl;
 return;
 }
